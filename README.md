@@ -1,15 +1,15 @@
-##Cybersecurity Portfolio
+## Cybersecurity Portfolio
 =========================
 
-##Introduction
+## Introduction
 
 Welcome to my cybersecurity portfolio! I am a beginner in the field, passionate about learning and growing my skills to become a proficient cybersecurity professional. This portfolio showcases my journey, projects, and the knowledge I have acquired so far. By documenting my progress and projects, I aim to demonstrate my dedication and continuous improvement in this dynamic and crucial industry.
 
-##About Me
+## About Me
 
 My name is Daniel Gonzalez, and I recently earned my CompTIA Security+ SYO-701 certification. I am currently focused on expanding my knowledge and obtaining additional certifications to enhance my expertise. My background includes studying threats and vulnerabilities, and I am dedicated to keeping up-to-date with the latest developments in cybersecurity.
 
-##Purpose of This Portfolio
+## Purpose of This Portfolio
 
 Creating and maintaining this portfolio serves several important purposes:
 
@@ -21,8 +21,8 @@ Creating and maintaining this portfolio serves several important purposes:
 
 4. **Professional Growth:** A well-documented portfolio is an excellent tool for networking and job hunting. It allows potential employers and collaborators to see my dedication, skills, and growth. It also provides a foundation for discussions during interviews and networking events.
 
-##Projects and Learning Path
-#Projects
+## Projects and Learning Path
+# Projects
 
 1. Packet Tracer HomeLab
 
@@ -31,23 +31,22 @@ Creating and maintaining this portfolio serves several important purposes:
 * **Challenges and Solutions:** Time has been a massive challenge. I'm learning to better portion out my time when I'm not working both restaurant jobs.
 * **Outcome:** The results of this project will help me better understand how packets travel throughout networks, and will give me the fundamental skills to keep building on.
 
-##Certifications and Courses
+## Certifications and Courses
 
 * **CompTIA Security+ SYO-701:** Successfully passed the certification exam, gaining a solid foundation in cybersecurity principles.
 
-##Learning Path
+## Learning Path
 
 * **Threats and Vulnerabilities:** Studying common threats and vulnerabilities, and understanding how to mitigate them.
 * **Networking Basics:** Learning about the OSI model, TCP/IP, and basic networking concepts.
 * **Linux Systems Administration:** Gaining proficiency in Linux systems administration to better understand and secure systems.
 
-##Future Goals
+## Future Goals
 
 * **Advanced Certifications:** Aim to achieve advanced certifications such as CISSP, CEH, and more.
 * **Hands-on Experience:** Participate in more practical projects, internships, and collaborative efforts to gain real-world experience.
 * **Community Involvement:** Engage with the cybersecurity community through forums, conferences, and networking events to share knowledge and learn from others.
 
-##Conclusion
-
+## Conclusion
 This portfolio is a testament to my commitment to becoming a skilled cybersecurity professional. By continuously documenting my progress, I aim to improve my skills, gain valuable experience, and contribute to the cybersecurity field. Thank you for visiting my portfolio, and I look forward to connecting with others who share my passion for cybersecurity.
 
