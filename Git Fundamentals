@@ -99,6 +99,11 @@ git reset HEAD filename: Unstages file changes in the staging area.
 git reset commit_SHA: Resets to a previous commit in your commit history.
 
 
-NOTE: Just because you reset a commit to a previous one, it doesn't mean it changed the working directory. That's why git checkout HEAD is a useful command to get you back to your working directory.
+NOTE: Just because you reset a commit to a previous one, doesn't mean it changed the working directory. That's why git checkout HEAD is a useful command to get you back to your working directory.
+
+
+
+
+*GIT STASH*
 
 
