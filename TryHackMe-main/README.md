@@ -20,26 +20,24 @@ This repository serves several key purposes:
 ## Repository Structure
 
 - `README.md`: Overview of the repository and its contents.
-- `projects/`: Directory containing detailed write-ups and solutions for each TryHackMe project.
-  - `junior_security_analyst_intro/`: Write-up and solutions for the Junior Security Analyst intro project.
-  - `other_projects/`: Placeholder for additional projects that will be added over time.
+- `SOC_1/`: Write-up and solutions for the Junior Security Analyst intro project.
+  - `../`: Placeholder for additional projects that will be added over time.
 
 ## Projects
 
 ### Junior Security Analyst Intro
 
-- **Description**: Introduction to the role and responsibilities of a Junior Security Analyst. This project covers basic concepts and tasks related to threat detection, analysis, and incident response.
+- **Description**: Introduction to the role and responsibilities of a Security Analyst. This project covers basic concepts and tasks related to threat detection, analysis, and incident response.
 - **Skills Demonstrated**:
   - Understanding of basic cybersecurity principles and terminologies.
   - Ability to analyze and respond to security incidents.
   - Familiarity with common tools and techniques used by security analysts.
-- **Write-Up**: [Link to detailed write-up](projects/junior_security_analyst_intro/README.md)
 
 ### Other Projects
 
 - **Project Name**: Brief description of the project.
   - **Skills Demonstrated**: Key skills and concepts learned during the project.
-  - **Write-Up**: [Link to detailed write-up](projects/other_projects/project_name/README.md)
+  - **Write-Up**: [Link to detailed write-up](https://github.com/DUBBSTOEVSKY/Cybersecurity-Portfolio/tree/main/TryHackMe-main/SOC_L1)
 
 ## Future Goals
 

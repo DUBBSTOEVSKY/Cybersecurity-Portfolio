@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Understanding Cyber Threat Intelligence (CTI) is akin to becoming a modern-day Sherlock Holmes, where gathering and analyzing data about potential threats is key to staying ahead of cybercriminals. The **Cyber Threat Intelligence** module from TryHackMe equips you with the skills needed to navigate this complex field effectively.
+Understanding Cyber Threat Intelligence (CTI) is akin to becoming a modern-day Sherlock Holmes, where gathering and analyzing data about potential threats is key to staying ahead of cybercriminals. The **Cyber Threat Intelligence** module from TryHackMe equips you with the skills needed to navigate this complex field like a boss.
 
 ## Core Concepts
 
