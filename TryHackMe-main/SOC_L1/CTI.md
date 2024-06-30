@@ -1,5 +1,4 @@
 # Cyber Threat Intelligence
-==================================================
 
 ## Introduction
 
