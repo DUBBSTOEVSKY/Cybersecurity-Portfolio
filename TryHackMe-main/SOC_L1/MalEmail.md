@@ -12,7 +12,7 @@ Our mission: Use the tools from this module (or any reliable resources) to disse
 
 First, we break down the email using the classic investigative approach: Who, What, Where, When, Why, and How. We'll dive into the email and extract every piece of intel we can before tackling the questions.
 
-## Step-by-Step Analysis
+### Step-by-Step Analysis
 
 #### Downloading and Opening the File
 
