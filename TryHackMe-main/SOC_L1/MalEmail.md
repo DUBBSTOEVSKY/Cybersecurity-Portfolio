@@ -2,7 +2,7 @@
 
 ## Scenario: SOC Analyst on Duty
 
-You're on the frontlines as a SOC Analyst. Several suspicious emails have landed in your inbox from coworkers. It's time to dig into these emails and extract crucial details to triage the incidents.
+You're on the frontlines as a SOC Analyst. Several suspicious emails have landed in your inbox from coworkers. It's time to dig into these emails and extract key details to triage the incidents.
 
 ## Task: Analyzing Email2.eml
 
