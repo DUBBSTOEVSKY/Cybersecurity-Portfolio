@@ -3,11 +3,13 @@
 
 ## Introduction
 
-Welcome to my cybersecurity portfolio! I am a beginner in the field, passionate about learning and growing my skills to become a proficient cybersecurity professional. This portfolio showcases my journey, projects, and the knowledge I have acquired so far. By documenting my progress and projects, I aim to demonstrate my dedication and continuous improvement in this dynamic and crucial industry.
+Welcome to my cybersecurity portfolio! I hope my repos connect with you and your passion, like mine, for growing your skills to become an absolute beast cybersecurity professional. This portfolio showcases my journey, projects, and the knowledge I have acquired so far. By documenting my progress and projects, I aim to create and image of my dedication and continuous improvement in this dynamic and extremely relevant industry.
 
 ## About Me
 
-My name is Daniel Gonzalez, and I recently earned my CompTIA Security+ SYO-701 certification. I am currently focused on expanding my knowledge and obtaining additional certifications to enhance my expertise. My background includes studying threats and vulnerabilities, and I am dedicated to keeping up-to-date with the latest developments in cybersecurity.
+Hi everyone, I'm Daniel Gonzalez! I recently earned my CompTIA Security+ SY0-701 certification, and let me tell you, it was a game-changer, but not in the way you're thinking. Here's the kicker: I realized just studuying for a test wasn't enough. You need to get get your hands dirty and apply that knowledge in real-world scenarios. So, here I am, diving headfirst into the trenches of cybersecurity. This time around, I'm 1,000% in on sharpening my practical skills, and doing this trough TryHackMe and HackTheBox for some awesome, on-the-ground learning. My focus? To become the swiss army knife of everything cybersecurity: 
+
+https://www.google.com/url?sa%253Di%2526url%253Dhttps%253A%252F%252Fwww.reactiongifs.us%252Ftight-tight-tight-breaking-bad%252F%2526psig%253DAOvVaw0UJIpiYkZLOpyZI9gLR6Op%2526ust%253D1720544756548000%2526source%253Dimages%2526cd%253Dvfe%2526opi%253D89978449%2526ved%253D0CBAQjRxqFwoTCKjrjO72l4cDFQAAAAAdAAAAABAd
 
 ## Purpose of This Portfolio
 
