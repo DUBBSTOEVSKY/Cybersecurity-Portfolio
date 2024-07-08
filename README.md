@@ -7,9 +7,7 @@ Welcome to my cybersecurity portfolio! I hope my repos connect with you and your
 
 ## About Me
 
-Hi everyone, I'm Daniel Gonzalez! I recently earned my CompTIA Security+ SY0-701 certification, and let me tell you, it was a game-changer, but not in the way you're thinking. Here's the kicker: I realized just studuying for a test wasn't enough. You need to get get your hands dirty and apply that knowledge in real-world scenarios. So, here I am, diving headfirst into the trenches of cybersecurity. This time around, I'm 1,000% in on sharpening my practical skills, and doing this trough TryHackMe and HackTheBox for some awesome, on-the-ground learning. My focus? To become the swiss army knife of everything cybersecurity: 
-
-https://www.google.com/url?sa%253Di%2526url%253Dhttps%253A%252F%252Fwww.reactiongifs.us%252Ftight-tight-tight-breaking-bad%252F%2526psig%253DAOvVaw0UJIpiYkZLOpyZI9gLR6Op%2526ust%253D1720544756548000%2526source%253Dimages%2526cd%253Dvfe%2526opi%253D89978449%2526ved%253D0CBAQjRxqFwoTCKjrjO72l4cDFQAAAAAdAAAAABAd
+Hi everyone, I'm Daniel Gonzalez! I recently earned my CompTIA Security+ SY0-701 certification, and let me tell you, it was a game-changer, but not in the way you're thinking. Here's the kicker: I realized just studuying for a test wasn't enough. You need to get get your hands dirty and apply that knowledge in real-world scenarios. So, here I am, diving headfirst into the trenches of cybersecurity. This time around, I'm 1,000% in on sharpening my practical skills, and doing this trough TryHackMe and HackTheBox for some awesome, on-the-ground learning. My focus? To become the swiss army knife of everything cybersecurity.
 
 ## Purpose of This Portfolio
 
