@@ -1,4 +1,4 @@
-# Windows Command Line Cheat Sheet
+# Windows Command Line Cheat Sheet (Cheat Codes)
 
 ## Basic Navigation
 - **`dir`**: Peek inside your folder.
