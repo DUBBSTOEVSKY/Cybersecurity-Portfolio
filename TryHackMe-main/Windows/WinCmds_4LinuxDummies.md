@@ -151,4 +151,4 @@
 
 ## Note
 
-These are just a few of the commands I've learned, but cross-referenced to help out my Linux peeps out there! I hope they help. 
+These are just a few of the commands I've learned, but cross-referenced to help out my Linux peeps out there! I hope they come in handy 🐧
