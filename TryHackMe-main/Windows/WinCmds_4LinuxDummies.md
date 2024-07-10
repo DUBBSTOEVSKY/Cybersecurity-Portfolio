@@ -1,97 +1,154 @@
-# Windows Command Line Cheat Sheet (Cheat Codes)
+# Windows Command Line Cheat Sheet with Linux Cross-References
 
 ## Basic Navigation
-- **`dir`**: Peek inside your folder.
-  - *Example*: `dir` lists all files and folders in your current directory. Think of it as opening a drawer to see what’s inside.
+- **`dir` (Windows)**: Peek inside your folder.
+  - *Example*: `dir` lists all files and folders in your current directory.
+  - **Linux Equivalent**: `ls`
+    - *Example*: `ls` lists files and folders in your current directory.
+    - *Difference*: `ls` has more options for formatting and sorting the output.
 
-- **`cd`**: Teleport to a different folder.
-  - *Example*: `cd Documents` moves you to the Documents folder. Use `cd ..` to go back up a level.
+- **`cd` (Windows)**: Teleport to a different folder.
+  - *Example*: `cd Documents` moves you to the Documents folder.
+  - **Linux Equivalent**: `cd`
+    - *Example*: `cd Documents` works the same way in Linux.
+    - *Difference*: No significant difference.
 
-- **`mkdir`**: Create a new folder.
-  - *Example*: `mkdir NewFolder` creates a new folder named "NewFolder". Perfect for organizing your files.
+- **`mkdir` (Windows)**: Create a new folder.
+  - *Example*: `mkdir NewFolder` creates a new folder named "NewFolder".
+  - **Linux Equivalent**: `mkdir`
+    - *Example*: `mkdir NewFolder` works the same way in Linux.
+    - *Difference*: No significant difference.
 
 ## File Operations
-- **`copy`**: Duplicate files.
-  - *Example*: `copy file.txt backup.txt` copies `file.txt` to `backup.txt`. Handy for making backups.
+- **`copy` (Windows)**: Duplicate files.
+  - *Example*: `copy file.txt backup.txt` copies `file.txt` to `backup.txt`.
+  - **Linux Equivalent**: `cp`
+    - *Example*: `cp file.txt backup.txt` duplicates `file.txt` in Linux.
+    - *Difference*: `cp` offers additional options like `-r` for recursive copying.
 
-- **`move`**: Relocate files.
-  - *Example*: `move file.txt D:\Backup` moves `file.txt` to the D:\Backup folder. Great for tidying up.
+- **`move` (Windows)**: Relocate files.
+  - *Example*: `move file.txt D:\Backup` moves `file.txt` to the D:\Backup folder.
+  - **Linux Equivalent**: `mv`
+    - *Example*: `mv file.txt /backup` moves `file.txt` in Linux.
+    - *Difference*: Syntax and usage are similar, but `mv` in Linux is often used for renaming files too.
 
-- **`del`**: Delete files.
-  - *Example*: `del file.txt` deletes `file.txt`. Use with caution, as it’s permanent!
+- **`del` (Windows)**: Delete files.
+  - *Example*: `del file.txt` deletes `file.txt`.
+  - **Linux Equivalent**: `rm`
+    - *Example*: `rm file.txt` removes `file.txt` in Linux.
+    - *Difference*: `rm` has options like `-r` for directories and `-f` for force deletion.
 
-- **`ren`**: Rename files.
+- **`ren` (Windows)**: Rename files.
   - *Example*: `ren oldname.txt newname.txt` changes the name of `oldname.txt` to `newname.txt`.
+  - **Linux Equivalent**: `mv`
+    - *Example*: `mv oldname.txt newname.txt` renames the file in Linux.
+    - *Difference*: `mv` in Linux serves dual purposes for moving and renaming files.
 
 ## System Information
-- **`systeminfo`**: Get the scoop on your PC.
-  - *Example*: `systeminfo` shows detailed info about your computer’s hardware and software. It’s like reading your PC’s resume.
+- **`systeminfo` (Windows)**: Get the scoop on your PC.
+  - *Example*: `systeminfo` shows detailed info about your computer’s hardware and software.
+  - **Linux Equivalent**: `uname -a` and `lshw`
+    - *Example*: `uname -a` for kernel info, `lshw` for hardware details.
+    - *Difference*: Linux uses multiple commands for different types of system information.
 
-- **`msinfo32`**: Open System Information tool.
+- **`msinfo32` (Windows)**: Open System Information tool.
   - *Example*: `msinfo32` launches a window with a comprehensive overview of your system.
+  - **Linux Equivalent**: `hardinfo`
+    - *Example*: `hardinfo` opens a graphical system information tool.
+    - *Difference*: `hardinfo` needs to be installed and is more detailed.
 
-- **`resmon`**: Monitor your resources.
+- **`resmon` (Windows)**: Monitor your resources.
   - *Example*: `resmon` opens Resource Monitor to see how your computer’s resources are being used.
+  - **Linux Equivalent**: `htop` or `top`
+    - *Example*: `htop` provides an interactive process viewer, `top` shows real-time system info.
+    - *Difference*: `htop` is more interactive, `top` is available by default.
 
 ## Networking
-- **`ipconfig`**: Check your network settings.
-  - *Example*: `ipconfig` displays your IP address and other network details. Use `ipconfig /all` for more info.
+- **`ipconfig` (Windows)**: Check your network settings.
+  - *Example*: `ipconfig` displays your IP address and other network details.
+  - **Linux Equivalent**: `ifconfig` or `ip`
+    - *Example*: `ifconfig` for network interfaces, `ip a` for IP addresses.
+    - *Difference*: `ip` is more modern and preferred in Linux.
 
-- **`ping`**: Test network connectivity.
-  - *Example*: `ping google.com` checks if you can reach Google. Useful for troubleshooting internet issues.
+- **`ping` (Windows)**: Test network connectivity.
+  - *Example*: `ping google.com` checks if you can reach Google.
+  - **Linux Equivalent**: `ping`
+    - *Example*: `ping google.com` works the same way in Linux.
+    - *Difference*: No significant difference.
 
-- **`netstat`**: View active connections.
-  - *Example*: `netstat` shows all current network connections and listening ports. Good for network diagnostics.
+- **`netstat` (Windows)**: View active connections.
+  - *Example*: `netstat` shows all current network connections and listening ports.
+  - **Linux Equivalent**: `netstat`
+    - *Example*: `netstat` functions similarly in Linux.
+    - *Difference*: `ss` is often used in Linux for more detailed socket statistics.
 
-- **`tracert`**: Trace the route packets take.
-  - *Example*: `tracert google.com` shows the path your data takes to reach Google. Useful for identifying network delays.
+- **`tracert` (Windows)**: Trace the route packets take.
+  - *Example*: `tracert google.com` shows the path your data takes to reach Google.
+  - **Linux Equivalent**: `traceroute`
+    - *Example*: `traceroute google.com` works the same way in Linux.
+    - *Difference*: Name and some options differ.
 
 ## Task Management
-- **`tasklist`**: See what’s running.
-  - *Example*: `tasklist` displays all running processes. It’s like opening Task Manager in list form.
+- **`tasklist` (Windows)**: See what’s running.
+  - *Example*: `tasklist` displays all running processes.
+  - **Linux Equivalent**: `ps`
+    - *Example*: `ps aux` lists running processes in Linux.
+    - *Difference*: `ps` has different options and output formatting.
 
-- **`taskkill`**: Terminate processes.
-  - *Example*: `taskkill /IM notepad.exe` closes Notepad. Add `/F` to force close.
+- **`taskkill` (Windows)**: Terminate processes.
+  - *Example*: `taskkill /IM notepad.exe` closes Notepad.
+  - **Linux Equivalent**: `kill` or `pkill`
+    - *Example*: `kill [PID]` or `pkill notepad` terminates processes.
+    - *Difference*: `kill` needs process IDs, `pkill` can use process names.
 
-- **`shutdown`**: Power down your PC.
-  - *Example*: `shutdown /s /t 0` shuts down your computer immediately. Replace `/s` with `/r` to restart.
+- **`shutdown` (Windows)**: Power down your PC.
+  - *Example*: `shutdown /s /t 0` shuts down your computer immediately.
+  - **Linux Equivalent**: `shutdown`
+    - *Example*: `shutdown now` or `shutdown -h now` for immediate shutdown.
+    - *Difference*: Options are slightly different.
 
 ## File System Utilities
-- **`chkdsk`**: Check and repair disk issues.
+- **`chkdsk` (Windows)**: Check and repair disk issues.
   - *Example*: `chkdsk C: /f` checks and fixes errors on the C: drive.
+  - **Linux Equivalent**: `fsck`
+    - *Example*: `fsck /dev/sda1` checks and repairs filesystem issues.
+    - *Difference*: `fsck` is used with device names.
 
-- **`sfc /scannow`**: Scan and repair system files.
+- **`sfc /scannow` (Windows)**: Scan and repair system files.
   - *Example*: `sfc /scannow` scans your system for corrupted files and repairs them.
+  - **Linux Equivalent**: `apt-get check` or `dpkg --audit`
+    - *Example*: `dpkg --audit` checks for broken packages.
+    - *Difference*: Linux commands focus on package integrity.
 
-- **`attrib`**: Change file attributes.
-  - *Example*: `attrib +r file.txt` makes `file.txt` read-only. Use `-r` to remove read-only attribute.
+- **`attrib` (Windows)**: Change file attributes.
+  - *Example*: `attrib +r file.txt` makes `file.txt` read-only.
+  - **Linux Equivalent**: `chmod`
+    - *Example*: `chmod 444 file.txt` makes `file.txt` read-only.
+    - *Difference*: `chmod` uses numeric codes for permissions.
 
 ## Advanced Tools
-- **`gpedit.msc`**: Open Group Policy Editor.
-  - *Example*: `gpedit.msc` launches the Group Policy Editor, where you can change local policy settings.
+- **`gpedit.msc` (Windows)**: Open Group Policy Editor.
+  - *Example*: `gpedit.msc` launches the Group Policy Editor.
+  - **Linux Equivalent**: No direct equivalent, uses `nano` or `vi` to edit config files.
+    - *Example*: Edit `/etc` files for policy changes.
 
-- **`regedit`**: Open Registry Editor.
-  - *Example*: `regedit` opens the Registry Editor, allowing you to view and edit the Windows registry.
+- **`regedit` (Windows)**: Open Registry Editor.
+  - *Example*: `regedit` opens the Registry Editor.
+  - **Linux Equivalent**: No direct equivalent, uses text editors for config files.
+    - *Example*: Edit config files in `/etc` with `nano` or `vi`.
 
-- **`services.msc`**: Manage background services.
-  - *Example*: `services.msc` opens the Services window where you can start, stop, and manage services.
+- **`services.msc` (Windows)**: Manage background services.
+  - *Example*: `services.msc` opens the Services window.
+  - **Linux Equivalent**: `systemctl`
+    - *Example*: `systemctl status` to view services, `systemctl start [service]` to start a service.
+    - *Difference*: `systemctl` is command-line based.
 
-- **`eventvwr`**: View system logs.
-  - *Example*: `eventvwr` opens Event Viewer to see logs of system events, useful for troubleshooting errors.
+- **`eventvwr` (Windows)**: View system logs.
+  - *Example*: `eventvwr` opens Event Viewer to see logs of system events.
+  - **Linux Equivalent**: `journalctl`
+    - *Example*: `journalctl` shows system logs.
+    - *Difference*: `journalctl` is command-line based and requires options for detailed views.
 
-## Fun and Practical Uses
-- **Setting Up a File Structure**:
-  - Use `mkdir` to create folders for projects, `cd` to navigate, and `copy` to duplicate essential files.
+## Note
 
-- **Troubleshooting Network Issues**:
-  - Use `ping` to check connectivity, `tracert` to identify slow hops, and `netstat` to see active connections.
-
-- **Managing System Performance**:
-  - Use `tasklist` to see what’s running, `taskkill` to close unresponsive programs, and `resmon` to monitor resource usage.
-
-- **Maintaining System Health**:
-  - Use `chkdsk` and `sfc /scannow` to check for and repair disk and system file issues.
-
----
-
-Keep this cheat sheet handy as you navigate the Windows command line. Practice these commands to become more comfortable and efficient in managing your Windows system.
+These are just a few of the commands I've learned, but cross-referenced to help out my Linux peeps out there! I hope they help. 
