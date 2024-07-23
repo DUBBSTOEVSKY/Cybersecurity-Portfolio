@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio! I hope my repos connect with you and your
 
 ## About Me
 
-Hi everyone, I'm Daniel Gonzalez! I recently earned my CompTIA Security+ SY0-701 certification, and let me tell you, it was a game-changer, but not in the way you're thinking. Here's the catch: I realized just studuying for a test wasn't enough. You need to get get your hands dirty and apply that knowledge in real-world scenarios. So, here I am, diving headfirst into the trenches of cybersecurity. This time around, I'm 1,000% in on sharpening my practical skills, and doing this trough TryHackMe and HackTheBox for some awesome, on-the-ground learning. My focus? To become the swiss army knife of everything cybersecurity.
+Hi everyone, I'm Deric Johnson! I recently earned my CompTIA Security+ SY0-701 certification, and let me tell you, it was a game-changer, but not in the way you're thinking. Here's the catch: I realized just studuying for a test wasn't enough. You need to get get your hands dirty and apply that knowledge in real-world scenarios. So, here I am, diving headfirst into the trenches of cybersecurity. This time around, I'm 1,000% in on sharpening my practical skills, and doing this trough TryHackMe and HackTheBox for some awesome, on-the-ground learning. My focus? To become the swiss army knife of everything cybersecurity.
 
 ## Purpose of This Portfolio
 
