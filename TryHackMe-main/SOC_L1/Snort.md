@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This TryHackMe Snort room was a challenging yet invaluable learning experienc. IT provided me with hands-on knowledge of Snort, a powerful open-source network intrusion detection system (NIDS) and intrusion prevention system (IPS). Despite the hurdles, I persevered and learned how to install, configure, and use Snort to detect and respond to network threats.
+This TryHackMe Snort room was a challenging yet invaluable learning experience. IT provided me with hands-on knowledge of Snort, a powerful open-source network intrusion detection system (NIDS) and intrusion prevention system (IPS). Despite the hurdles, I persevered and learned how to install, configure, and use Snort to detect and respond to network threats.
 
 ## Key Topics Covered in the Lab
 
@@ -57,4 +57,4 @@ Analyzing Snort alerts involved understanding the alert format and using tools l
 
 ## Conclusion
 
-Completing this TryHackMe Snort room was a challenging yet immensely rewarding journey. Despite the difficulties sifting through packet logs, I was determined and fueled by coffee. Eventually, ,y perseverance paid off. Cheers to honing my skills in network intrusion detection and prevention. The hands-on experience of installing, configuring, and running Snort, along with writing custom rules and analyzing alerts!
+Completing this TryHackMe Snort room was a challenging yet immensely rewarding journey. Despite the difficulties sifting through packet logs, I was determined and fueled by coffee. Eventually, my perseverance paid off. Cheers to honing skills in network intrusion detection and prevention. The hands-on experience of installing, configuring, and running Snort, along with writing custom rules and analyzing alerts was the type of journey I needed to get my hands dirty.
