@@ -42,9 +42,7 @@ Snort has become an essential tool in my cybersecurity toolkit. It provides real
 
 ### Installing Snort
 
-Installing Snort was a challenging but rewarding process. It required careful attention to detail and perseverance to get everything right. The key steps I followed included updating my system, installing necessary dependencies, and downloading and compiling the Snort source code. Here is a screenshot of my terminal during the installation process:
-
-![Installing Snort](sandbox:/mnt/data/tryhackme_snort_install.png)
+Installing Snort was a challenging but rewarding process. It required careful attention to detail and perseverance to get everything right. The key steps I followed included updating my system, installing necessary dependencies, and downloading and compiling the Snort source code. 
 
 ### Snort Configuration
 
@@ -59,7 +57,7 @@ I also configured the output modules to log alerts in various formats, such as u
 
 ### Snort Rules
 
-Writing Snort rules was one of the most fascinating and challenging parts of this room. I learned that Snort rules are composed of two main parts: the rule header and the rule options. Below is an example of a simple rule I wrote to detect ICMP echo requests (pings):
+Writing Snort rules was one of the most fascinating and challenging parts of this room. I learned that Snort rules are composed of two main parts: the rule header and the rule options. 
 
 ```plaintext
 alert icmp any any -> any any (msg:"ICMP Echo Request"; itype:8; sid:1000001; rev:1;)
@@ -67,9 +65,7 @@ alert icmp any any -> any any (msg:"ICMP Echo Request"; itype:8; sid:1000001; re
 
 ### Running Snort
 
-Running Snort in different modes was essential for understanding its operation. I used commands to run Snort in IDS mode and packet logger mode. Here is a screenshot of Snort running in IDS mode on my system:
-
-![Running Snort in IDS Mode](sandbox:/mnt/data/tryhackme_snort_run.png)
+Running Snort in different modes was essential for understanding its operation. I used commands to run Snort in IDS mode and packet logger mode. 
 
 ### Analyzing Snort Alerts
 
